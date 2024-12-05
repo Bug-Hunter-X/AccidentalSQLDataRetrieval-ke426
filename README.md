@@ -1,0 +1,1 @@
+This repository demonstrates a common error in SQL queries where unintentional data is retrieved due to a lack of proper input sanitization and escaping of user-provided data. The bug showcases a vulnerability that might lead to unexpected results and data breaches. The solution illustrates how to mitigate the risk by using parameterized queries and proper data validation.
